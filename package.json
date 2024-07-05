@@ -33,6 +33,7 @@
     "grunt-cli": "^1.2.0",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
-    "jasmine": "^2.4.1"
+    "jasmine": "^2.4.1",
+    "form-data": "^4.0.0"
   }
 }
