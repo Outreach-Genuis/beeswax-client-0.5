@@ -26,15 +26,15 @@
     "bluebird": "^3.4.0",
     "request": "^2.72.0",
     "request-promise": "^3.0.0",
-    "ssl-root-cas": "^1.1.10"
+    "ssl-root-cas": "^1.1.10",
+    "form-data": "^4.0.0",
+    "axios": "^1.4.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
-    "jasmine": "^2.4.1",
-    "form-data": "^4.0.0",
-    "axios": "^1.4.0"
+    "jasmine": "^2.4.1"
   }
 }
